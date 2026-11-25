@@ -1,0 +1,4 @@
+backend/src/main/resources/application.properties
+mobile/android/app/google-services.json
+backend/uploads/
+mobile/.vscode/
